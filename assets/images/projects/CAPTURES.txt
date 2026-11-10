@@ -1,0 +1,7 @@
+Captures déjà intégrées :
+
+CO₂ Analyst : assets/images/projects/co2-analyst/
+NOVEC MATCHING (PFE privé) : assets/images/projects/novec-matching/
+Smart BI : assets/images/projects/smart-bi/
+
+Les autres projets sont liés à leurs dépôts GitHub. Pour ajouter des captures plus tard, crée un sous-dossier pour le projet dans ce répertoire et ajoute les chemins d’images dans sa fiche HTML.
